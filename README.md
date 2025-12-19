@@ -3,4 +3,4 @@
 <br>
 This will be updated after the second commit
 <br>
-<p>Author-<b>Arnav Chokhawala</b></p>
+<p>Author-<b>Arnav Chokhawala(MIT manipal)</b></p>
